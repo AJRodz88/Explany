@@ -13,6 +13,7 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using Newtonsoft.Json;
 
+//PW: l6blgxy0z1~~qSv-w_I35vCMyXk_5tK7yN
 namespace ExplanyBot.Bots
 {
     public class EchoBot : ActivityHandler

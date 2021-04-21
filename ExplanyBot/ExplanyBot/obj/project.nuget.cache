@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2q40vNfJdWiPIDXUktNq0fJkXg7oCOr5buRBHMs96LCQK7Pjf1zgYV0Rg5/9vc1EfPR/DW47RbkjfY2aohUrXg==",
+  "dgSpecHash": "8rXwgVhhHzCJimFAF7+FQUOctPNry6zxlQGANjn3JL4YU2hD7P2hISljaTmKRnQBYyPMVXeucBmPnEwARIkiZA==",
   "success": true,
-  "projectFilePath": "F:\\ExplanyBot\\ExplanyBot\\ExplanyBot.csproj",
+  "projectFilePath": "F:\\Explany\\ExplanyBot\\ExplanyBot\\ExplanyBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\j_del\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
     "C:\\Users\\j_del\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",

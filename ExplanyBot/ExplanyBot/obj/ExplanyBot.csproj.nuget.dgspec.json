@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ExplanyBot\\ExplanyBot\\ExplanyBot.csproj": {}
+    "F:\\Explany\\ExplanyBot\\ExplanyBot\\ExplanyBot.csproj": {}
   },
   "projects": {
-    "F:\\ExplanyBot\\ExplanyBot\\ExplanyBot.csproj": {
+    "F:\\Explany\\ExplanyBot\\ExplanyBot\\ExplanyBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ExplanyBot\\ExplanyBot\\ExplanyBot.csproj",
+        "projectUniqueName": "F:\\Explany\\ExplanyBot\\ExplanyBot\\ExplanyBot.csproj",
         "projectName": "ExplanyBot",
-        "projectPath": "F:\\ExplanyBot\\ExplanyBot\\ExplanyBot.csproj",
+        "projectPath": "F:\\Explany\\ExplanyBot\\ExplanyBot\\ExplanyBot.csproj",
         "packagesPath": "C:\\Users\\j_del\\.nuget\\packages\\",
-        "outputPath": "F:\\ExplanyBot\\ExplanyBot\\obj\\",
+        "outputPath": "F:\\Explany\\ExplanyBot\\ExplanyBot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\j_del\\AppData\\Roaming\\NuGet\\NuGet.Config",

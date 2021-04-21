@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ExplanyAPI\\ExplanyAPI\\ExplanyAPI.csproj": {}
+    "F:\\Explany\\ExplanyAPI\\ExplanyAPI\\ExplanyAPI.csproj": {}
   },
   "projects": {
-    "F:\\ExplanyAPI\\ExplanyAPI\\ExplanyAPI.csproj": {
+    "F:\\Explany\\ExplanyAPI\\ExplanyAPI\\ExplanyAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ExplanyAPI\\ExplanyAPI\\ExplanyAPI.csproj",
+        "projectUniqueName": "F:\\Explany\\ExplanyAPI\\ExplanyAPI\\ExplanyAPI.csproj",
         "projectName": "ExplanyAPI",
-        "projectPath": "F:\\ExplanyAPI\\ExplanyAPI\\ExplanyAPI.csproj",
+        "projectPath": "F:\\Explany\\ExplanyAPI\\ExplanyAPI\\ExplanyAPI.csproj",
         "packagesPath": "C:\\Users\\j_del\\.nuget\\packages\\",
-        "outputPath": "F:\\ExplanyAPI\\ExplanyAPI\\obj\\",
+        "outputPath": "F:\\Explany\\ExplanyAPI\\ExplanyAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\j_del\\AppData\\Roaming\\NuGet\\NuGet.Config",
